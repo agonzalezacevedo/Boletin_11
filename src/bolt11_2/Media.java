@@ -21,24 +21,24 @@ public class Media {
         return nom;
     }
 
-    public void setNom(String nom) {
-        this.nom = nom;
+    public void setNom(String Nom) {
+        this.nom = Nom;
     }
 
     public String getAutor() {
         return autor;
     }
 
-    public void setAutor(String autor) {
-        this.autor = autor;
+    public void setAutor(String Autor) {
+        this.autor = Autor;
     }
 
     public int getDuradaSegons() {
         return duradaSegons;
     }
 
-    public void setDuradaSegons(int duradaSegons) {
-        this.duradaSegons = duradaSegons;
+    public void setDuradaSegons(int Durada) {
+        this.duradaSegons = Durada;
     }
 
 }
